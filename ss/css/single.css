@@ -1,0 +1,24 @@
+.card-img{
+  border-color: 2px solid red;
+  height:45vh;
+  border-radius: 15px;
+}
+.container{
+  margin-bottom:110px;
+}
+.checked{
+  color:orange;
+}
+.unchecked{
+  color: gray;
+}
+.logo1{
+  transition: background-color 2s, ease 1s;
+  }
+ .logo1:hover{
+    background-color: #f4f8f9;
+  }
+.slider1{
+width:202%;
+margin-right:0;
+}

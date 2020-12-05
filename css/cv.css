@@ -1,0 +1,53 @@
+.bg-teal{
+  background-color: #008080!important;
+}
+ .badge-teal{
+   background-color: #008080!important;
+   color: white;
+ }
+.btn-teal{
+  color: white;
+  background-color: #008080!important;
+}
+.display-container{
+  position: relative;
+  padding: 0;
+}
+.display-bottomleft{
+  position: absolute;
+  padding: 10px;
+  top: 90%;
+  left: 0%;
+}
+.hover-opacity{
+padding: 5px;
+font-size: 1.3rem;
+color: #fcdba8;
+}
+.hover-opacity:hover{
+background-color: #d3e1e5;
+}
+.language {
+  height:24px;
+  width:90%
+}
+.progress-bar{
+  background-color: #f9f9f9!important;
+}
+.rounded-circle{
+  border-radius: 0 15px 15px 0!important;
+}
+ .text-teal{
+   color: #008080!important;
+ }
+ /*@media (max-width:991.98px){
+   .bottom{
+     font-size: 3rem!important;
+   }
+ }
+ @media (max-width:1199.98px){
+   .bottom{
+     font-size: 4rem!important;
+   }
+ }*/
+ 

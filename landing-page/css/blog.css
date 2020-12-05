@@ -1,0 +1,20 @@
+.active{
+  color:#232c2e;
+}
+.container {
+         position: relative;
+         background-image: url('images/d1.jpg') no repeat;
+      }
+      .content {
+         position: absolute;
+         top: 30px;
+         left: 8px;
+         color:white;
+      }
+     img {
+         width: 100%;
+         height: auto;
+         opacity: 0.8;
+         border-radius: 20px;
+         margin-bottom: 5px;
+      }

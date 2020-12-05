@@ -1,0 +1,45 @@
+.bg-teal{
+  background-color: #008080!important;
+}
+ .badge-teal{
+   background-color: #008080!important;
+   color: white;
+ }
+.display-container{
+  position: relative;
+  padding: 0;
+}
+.display-bottomleft{
+  position: absolute;
+  padding: 10px;
+  top: 90%;
+  left: 0%;
+}
+.hover-opacity{
+padding: 5px;
+font-size: 1.3rem;
+color: #fcdba8;
+}
+.hover-opacity:hover{
+background-color: #d3e1e5;
+}
+.language {
+  height:24px;
+  width:90%
+}
+.progress-bar{
+  background-color: #f9f9f9!important;
+}
+.rounded-circle{
+  border-radius: 0 15px 15px 0!important;
+}
+.text-opacity{
+  /*color: #b5e3e3;*/
+  color: red;
+  opacity: 0.3;
+  font-weight: 200;
+}
+ .text-teal{
+   color: #008080!important;
+ }
+ 

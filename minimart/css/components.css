@@ -1,0 +1,81 @@
+*{
+    box-sizing:border-box;
+    margin:0px;
+    padding:0px;
+}
+.card{margin:10px;
+padding:0px;
+  border:1px solid #dcdcdc;
+  background-color:#fff;
+  border-radius:25px;
+}
+.card-img {padding:0px;
+/*No border*/
+/*No border-radius*/
+  height:200px;width:100%;margin:0px;}
+.card-body{
+/*No border*/
+  padding:10px;
+}
+.card-link{
+  text-decoration:none;
+  color:#0275d8;
+  padding:10px;
+  font-size:16px;
+}
+.card-title{
+  text-align:center;
+  color:#292b2c;
+  font-size:30px;
+  padding:10px;
+  margin:10px 0px;
+  text-transform:capitalise;
+}
+.card-subtitle{margin:0px;
+  color:#dedede;
+  text-align:center;
+  font-size:25px;
+  padding: 10px;
+}
+.card-text{
+  line-height:2rem;
+  color:#292b2c;
+}
+.btn{
+  border-radius:15px;
+  font-size:15px;
+  box-shadow:4px 4px 3px;
+  margin:auto;
+  padding:10px;
+  cursor:pointer;
+  text-decoration:none;
+}
+
+.btn:hover{
+  background:gray;
+    box-shadow:4px 4px 3px #2b393c;
+}
+.btn-ye{
+ color:yellow;
+ border:2px solid yellow;
+}
+
+.btn-wh{
+ color:white;
+ background-color:blue;
+}
+
+.btn-bl{
+ color:blue;
+ border:2px solid blue;
+}
+
+.btn-gr{
+ color:green;
+ border:2px solid green;
+}
+
+.btn-rd{
+ color:red;
+ border:2px solid red;
+}
